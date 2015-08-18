@@ -1,4 +1,4 @@
-# Easy-Barcode-Scanner-Inventory
+# Easy Barcode Scanner Inventory
 A simple inventory system that automates the signout of property. I used this system to handle the checking out of orchestra instruments.
 
 To download the sample spreadsheet, check out the [Github Releases Page](https://github.com/benichmt1/Easy-Barcode-Scanner-Inventory/releases).
